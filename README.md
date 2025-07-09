@@ -58,5 +58,3 @@ It'll give you the current temp, wind speed, and a weather code for the city you
 - `typescript` (because types are nice)
 
 ---
-
-That’s it! If you have any questions or want to make it better, feel free to open an issue or PR. Stay breezy! 🌬️
